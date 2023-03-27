@@ -6,5 +6,4 @@
 - 《Management: Tasks, Responsibilities, Practices》- Peter F. Drucker（1973）✅ 
 
 ### 解决过一些问题
-- 钢材贸易
-- 餐饮贸易
+- 钢材贸易解决方案
