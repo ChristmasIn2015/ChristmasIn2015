@@ -6,4 +6,6 @@
 - 《Management: Tasks, Responsibilities, Practices》- Peter F. Drucker（1973）✅ 
 - 《Microsoft .NET 企业级应用架构设计（第二版）》
 - 《软件工程》Ian Sommerville
-- 《产品设计思维》http://www.aoyii.com/ecm-pd-02.html
+
+### 博客园地址
+https://www.cnblogs.com/ChristmasIn2015/
