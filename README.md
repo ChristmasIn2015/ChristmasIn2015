@@ -15,8 +15,33 @@
 - Shannon 1948 《A Mathematical Theory of Communication》
 ```
 
-| <text style="color: #00bcd4">存储 | <text style="color: #00bcd4">调度 | <text style="color: #00bcd4">传播 |
-| :-------------------------------- | :-------------------------------- | :-------------------------------- |
-| 物理上存储信息                    | 冯·诺依曼体系结构                 | OSI 分层模型                      |
-| 信息的逻辑结构                    | 编程语言                          |                                   |
-|                                   |                                   |                                   |
+<style>
+    th {
+        color:#00bcd4;
+    }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>存储</th>
+      <th>调度</th>
+      <th>传播</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>物理上存储信息</td>
+      <td>
+      <div>冯·诺依曼体系结构</div>
+      <a href="/" target="_blank">· 冯·诺依曼体系结构</a>
+      </td>
+      <td>OSI 分层模型</td>
+    </tr>
+    <tr>
+      <td>信息的逻辑结构</td>
+      <td>编程语言</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
