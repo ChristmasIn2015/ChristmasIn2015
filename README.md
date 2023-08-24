@@ -6,23 +6,12 @@
 特定问题通过特定算法来解决。
 ```
 
-[编译原理]()
-
-## 读过一些书
+## =
 
 ```
 信息是一种用来消除不确定性的东西
 - Shannon 1948 《A Mathematical Theory of Communication》
 ```
-
-<style>
-    th {
-        color:#00bcd4;
-    }
-    a{
-        display: block;
-    }
-</style>
 
 <table>
   <thead>
@@ -36,14 +25,17 @@
     <tr>
       <td>物理上存储信息</td>
       <td>
-      <a href="/books/blob/main/store/von_neumann_architecture.md" target="_blank">冯·诺依曼体系结构</a>
-      </td>
-      <td>OSI 分层模型</td>
-    </tr>
-    <tr>
-      <td>信息的逻辑结构</td>
-      <td>编程语言</td>
-      <td></td>
-    </tr>
+
+[冯·诺依曼体系结构](https://github.com/ChristmasIn2015/books/blob/main/store/von_neumann_architecture.md)
+
+  </td>
+  <td>OSI 分层模型</td>
+</tr>
+<tr>
+<td>信息的逻辑结构</td>
+<td>编程语言</td>
+<td></td>
+</tr>
+
   </tbody>
 </table>
