@@ -36,7 +36,7 @@
     <tr>
       <td>物理上存储信息</td>
       <td>
-      <a href="/" target="_blank">冯·诺依曼体系结构</a>
+      <a href="/books/blob/main/store/von_neumann_architecture.md" target="_blank">冯·诺依曼体系结构</a>
       </td>
       <td>OSI 分层模型</td>
     </tr>
