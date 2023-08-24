@@ -19,6 +19,9 @@
     th {
         color:#00bcd4;
     }
+    a{
+        display: block;
+    }
 </style>
 
 <table>
@@ -33,8 +36,7 @@
     <tr>
       <td>物理上存储信息</td>
       <td>
-      <div>冯·诺依曼体系结构</div>
-      <a href="/" target="_blank">· 冯·诺依曼体系结构</a>
+      <a href="/" target="_blank">冯·诺依曼体系结构</a>
       </td>
       <td>OSI 分层模型</td>
     </tr>
