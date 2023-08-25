@@ -6,7 +6,7 @@
 特定问题通过特定算法来解决。
 ```
 
-## =
+## 知识大纲
 
 ```
 信息是一种用来消除不确定性的东西
@@ -26,8 +26,7 @@
       <td>物理上存储信息</td>
       <td>
 
-[冯·诺依曼体系结构](https://github.com/ChristmasIn2015/books/blob/main/store/von_neumann_architecture.md)
-
+[计算机硬件与冯·诺依曼结构](https://zhuanlan.zhihu.com/p/651923485)
   </td>
   <td>OSI 分层模型</td>
 </tr>
